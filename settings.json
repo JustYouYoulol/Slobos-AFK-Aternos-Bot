@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "World_of_Lynn.aternos.me",
+    "port": 41432,
     "version": "",
     "try-creative": false
   },
